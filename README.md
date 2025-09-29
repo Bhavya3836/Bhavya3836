@@ -21,7 +21,7 @@ and learning new technologies that push my creativity forward.
 📚 I’m currently learning ...  
 - Spring Boot (Advanced)  
 - Modular Monolithic systems & System Design  
-- AI/ML applications in real-world projects
+- Data Analytics Tools
   
 💻 I’ve worked on projects ranging from crop yield prediction with ML to full-stack platforms like a recruitment portal.  
 🚀 I’m open to collaborating on exciting development projects.  
