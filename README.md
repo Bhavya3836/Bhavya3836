@@ -5,7 +5,7 @@ Hi there! I'm Bhavya Shah
      style="vertical-align: middle;"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=51&lines=Backend+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=51&lines=Backend+Developer+%7C+Data+Analyst)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FCF424&center=true&width=835&height=35&lines=Currently+building+projects+that+scale%2C+not+just+portfolios.;Exploring+the+universe+of+code+one+repo+at+a+time.;Java+%2B+spring+%2B+Python+%2B+JavaScript)](https://git.io/typing-svg) <br>
 I am an MSCIT student with a strong interest in *backend systems, Databased and Data Analytics tools*.  
 Currently, I’m diving deep into *Java Spring Boot*. I enjoy solving problems, building impactful projects, 
