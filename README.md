@@ -7,10 +7,10 @@ Hi there! I'm Bhavya Shah
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=51&lines=Backend+Developer+%7C+Data+Analyst)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FCF424&center=true&width=835&height=35&lines=Currently+building+projects+that+scale%2C+not+just+portfolios.;Exploring+the+universe+of+code+one+repo+at+a+time.;Java+%2B+spring+%2B+Python+%2B+JavaScript)](https://git.io/typing-svg) <br>
-I am an MSCIT student with a strong interest in *backend systems, Databased and Data Analytics tools*.  
-Currently, I’m diving deep into *Java Spring Boot*. I enjoy solving problems, building impactful projects, 
-and learning new technologies that push my creativity forward.  
+I am an MSCIT student with a strong interest in *Project Managment, Business/Data Analysis, Backend Development *.  
+Currently honing my skills in *Spring Boot* and building projects that combine *technical depth with strategic thinking*.
 
+I love solving real-world problems, optimizing workflows, and delivering projects that make a tangible impact.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/akshat-gandhi-217824240/](https://www.linkedin.com/in/bhavya-shah-620191270)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyas3836@gmail.com) 
