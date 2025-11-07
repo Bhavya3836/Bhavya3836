@@ -6,7 +6,7 @@ Hi there! I'm Bhavya Shah
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=51&lines=Backend+Developer+%7C+Business+Analyst)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FCF424&center=true&width=835&height=35&lines=Building+impactful+projects+with+purpose%2C+not+just+code.;Bridging+technology+and+business+through+smart+solutions.;Java+%2B+Spring+Boot+%2B+Project+Management+%2B+Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FCF424&center=true&width=835&height=35&lines=To+analyze+the+business+,+you've+got+to+understand+the+code+behind+it%2C+not+just+code.;Bridgfing+technology+and+business+through+smart+solutions.;Java+%2B+Spring+Boot+%2B+Project+Management+%2B+Data+Analysis)](https://git.io/typing-svg)
 <br>
 I am an MSCIT student with a strong interest in *Project Managment*, *Business/Data Analysis*, *Backend Development*.  
 Currently honing my skills in *Spring Boot* and building projects that combine *technical depth with strategic thinking*.
