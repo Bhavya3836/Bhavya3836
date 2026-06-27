@@ -56,6 +56,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and Going on Bik
 
 ### 🏆 LeetCode Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/Bhavya3836?theme=dark&font=baloo&extension=null)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Bhavya3836?ext=heatmap)
 
 ### ✍ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
