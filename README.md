@@ -4,8 +4,10 @@ Hi there! I'm Bhavya Shah!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=51&lines=Software+Engineer)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FCF424&center=true&width=835&height=35&lines=Bridging+technology+and+business+through+smart+solutions.;Aspiring+Product+Manager.;Java+%2B+Spring+Boot+%2B+Project+Management+%2B+Data+Analysis)](https://git.io/typing-svg)
 <br>
-I am an MSCIT student with a strong interest in *Project Managment*, *Business/Data Analysis*, *Backend Development*.  
-Currently honing my skills in *Spring Boot* and building projects that combine *technical depth with strategic thinking*.
+
+
+I am an Softwre Engineer with a strong interest in *Backend Development*, *Cloud*, *Product Management*.  
+
 
 I love solving real-world problems, optimizing workflows, and delivering projects that make a tangible impact.
 
